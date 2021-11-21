@@ -20,7 +20,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="First pull"
+            android:text="First pull and checking"
             android:padding="20dp">
 
         </TextView>
